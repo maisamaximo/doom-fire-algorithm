@@ -1,3 +1,6 @@
 # FOGO DO DOOM
 ***
-![Alt text][doom.fire.png]
+![Alt text][doom]
+
+
+[doom]: doom.fire.png
